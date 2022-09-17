@@ -1,0 +1,19 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+#social-circle a{
+    color: #000;
+}
+#social-circle a:hover {
+    color: blue;
+}
+#locateUs{
+    text-align: center;
+}
+
+@media screen and (max-width: 500px ) {
+    .contacts {
+        flex-wrap: wrap;
+    }
+}

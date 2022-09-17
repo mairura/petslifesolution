@@ -1,0 +1,12 @@
+@media screen and (max-width: 1200) {
+    .image_size {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media screen and (max-width: 990) {
+    .image_content {
+      margin-top: 20px;
+    }
+}

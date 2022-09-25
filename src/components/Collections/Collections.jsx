@@ -15,14 +15,14 @@ const Collections = () => {
           <div className="container justify-content-center" >
 
         <Row className="my-3">
-            <Col className="mt-3"><Image src={img21} style={{height: 200, width: 250}} className="image_size" /></Col>
+            <Col className="mt-3"><Image src={img21} style={{height: "auto", width: 250}} className="image_size" /></Col>
             <Col className="image_content">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis nesciunt 
             vitae consequuntur ratione amet aspernatur repellat facilis dolorum, 
             <br /><hr />
             <i><BsEmojiHeartEyes/> Visited on 22 Apr, 2022</i>
             </Col>
 
-            <Col className="mt-3"><Image src={img21} style={{height: 200, width: 250}}/> </Col> 
+            <Col className="mt-3"><Image src={img21} style={{height: "auto", width: 250}}/> </Col> 
             <Col>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis nesciunt 
               vitae consequuntur ratione amet aspernatur repellat facilis dolorum, 
               <br /><hr />
@@ -31,14 +31,14 @@ const Collections = () => {
       </Row>
 
       <Row className="my-3">
-            <Col className="mt-3"><Image src={img21} style={{height: 200, width: 250}} className="image_size"/></Col>
+            <Col className="mt-3"><Image src={img21} style={{height: "auto", width: 250}} className="image_size"/></Col>
             <Col>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis nesciunt 
             vitae consequuntur ratione amet aspernatur repellat facilis dolorum, 
             <br /><hr />
             <i><BsEmojiHeartEyes/> Visited on 22 Apr, 2022</i>
             </Col>
           
-            <Col className="mt-3"><Image src={img21} style={{height: 200, width: 250}} className="image_size"/> </Col> 
+            <Col className="mt-3"><Image src={img21} style={{height: "auto", width: 250}} className="image_size"/> </Col> 
             <Col>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis nesciunt 
               vitae consequuntur ratione amet aspernatur repellat facilis dolorum, 
               <br /><hr />
@@ -47,14 +47,14 @@ const Collections = () => {
       </Row>
 
       <Row className="my-3">
-            <Col className="mt-3"><Image src={img21} style={{height: 200, width: 250}} className="image_size"/></Col>
+            <Col className="mt-3"><Image src={img21} style={{height: "auto", width: 250}} className="image_size"/></Col>
             <Col>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis nesciunt 
             vitae consequuntur ratione amet aspernatur repellat facilis dolorum, 
             <br /><hr />
             <i><BsEmojiHeartEyes/> Visited on 22 Apr, 2022</i>
             </Col>
           
-            <Col className="mt-3"><Image src={img21} style={{height: 200, width: 250}} className="image_size"/> </Col> 
+            <Col className="mt-3"><Image src={img21} style={{height: "auto", width: 250}} className="image_size"/> </Col> 
             <Col>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis nesciunt 
               vitae consequuntur ratione amet aspernatur repellat facilis dolorum, 
               <br /><hr />
@@ -63,14 +63,14 @@ const Collections = () => {
       </Row>
 
       <Row className="my-3">
-            <Col className="mt-3"><Image src={img21} style={{height: 200, width: 250}} className="image_size"/></Col>
+            <Col className="mt-3"><Image src={img21} style={{height: "auto", width: 250}} className="image_size"/></Col>
             <Col>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis nesciunt 
             vitae consequuntur ratione amet aspernatur repellat facilis dolorum, 
             <br /><hr />
             <i><BsEmojiHeartEyes/> Visited on 22 Apr, 2022</i>
             </Col>
           
-            <Col className="mt-3"><Image src={img21} style={{height: 200, width: 250}} className="image_size"/> </Col> 
+            <Col className="mt-3"><Image src={img21} style={{height: "auto", width: 250}} className="image_size"/> </Col> 
             <Col>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis nesciunt 
               vitae consequuntur ratione amet aspernatur repellat facilis dolorum, 
               <br /><hr />

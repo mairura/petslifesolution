@@ -37,12 +37,11 @@ const Footer = () => {
       <p className="m-5" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam minus, dolor non at, ducimus itaque accusantium eaque amet, possimus commodi repudiandae asperiores obcaecati. Delectus quae eveniet nemo eius numquam earum.
       Alias, nemo ad esse soluta iusto saepe tempore iste odio beatae eius vitae sint incidunt similique, a quas commodi rem cupiditate quod! Eum doloribus excepturi autem dolore voluptatibus vel molestias.
       </p>
-      <ul className="d-flex justify-content-center my-5" id="social-circle">
-        <li className="pe-4"><a href="https://www.facebook.com/PetsLifeSolutionMe"><BsFacebook /></a> </li>
-        <li className="pe-4"><a href="/"><BsInstagram /></a> </li>
-        <li className="pe-4"><a href="https://twitter.com/petslifesln"><BsTwitter /></a></li>
-        <li className="pe-4"><a href="/"><BsWhatsapp /></a> </li>
-        <li className="pe-4"><a href="https://www.tiktok.com/search?lang=en&q=petslifesolution&t=1663384931914"><FaTiktok /></a> </li>
+      <ul className="d-flex justify-content-center m-5 fs-3" id="social-circle">
+        <li className="pe-5"><a href="https://www.facebook.com/PetsLifeSolutionMe"><BsFacebook /></a> </li>
+        <li className="pe-5"><a href="https://www.instagram.com/petslifesolution/"><BsInstagram /></a> </li>
+        <li className="pe-5"><a href="https://twitter.com/petslifesln"><BsTwitter /></a></li>
+        <li className="pe-5"><a href="https://www.tiktok.com/search?lang=en&q=petslifesolution&t=1663384931914"><FaTiktok /></a> </li>
       </ul>
       <div id="locateUs" className="my-5 p-3">
         <div className="contacts d-flex justify-content-around my-5">
@@ -79,7 +78,7 @@ const Footer = () => {
       <div>
         <Nav className="justify-content-center bg-dark">
           <Nav.Item>
-            <Nav.Link href="/home" ><i className="copyright" > Copyright &copy; Petslife Solution 2022. All Rights Reserved</i></Nav.Link>
+            <Nav.Link href="/home" ><i className="copyright" > Copyright &copy; Petslife Solution {(new Date().getFullYear())}. All Rights Reserved</i></Nav.Link>
           </Nav.Item> 
         </Nav>      </div>
     </div>
